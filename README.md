@@ -16,7 +16,7 @@ The platform addresses the growing gap in cultural representation in books and e
 - 🥇 1st Prize — Digital Mavericks Ideathon 2025  
 - 📄 Research:  
   *"Cultural Hub: An AI-Integrated Digital Knowledge Publishing Framework for Author Empowerment and Knowledge Democratisation towards Viksit Bharat"*
-   Status: Accepted ✓ 
+  | Status: Accepted ✓ 
 ---
 
 ## 🚨 Problem Statement  
