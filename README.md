@@ -1,8 +1,15 @@
 # 📚 Cultural Hub  
 ### An AI-Powered Collaborative Platform for Culturally Significant Content  
+> *Bridging Minds, Crafting Culture*
 
-**Bridging Minds, Crafting Culture**
-
+---
+ 
+## 🏆 Achievements
+ 
+- 🥇 **1st Prize** — Digital Mavericks Ideathon 2025 @ Stanley College
+- 🏆 **Semi-Finalist** — AI Hack Day 2025 @ IIIT Hyderabad & Swecha Telangana
+- 📄 **Research Paper Accepted** — Vidhyayana e-Journal
+ 
 ---
 
 ## 📌 Overview  
@@ -11,12 +18,6 @@
 
 The platform addresses the growing gap in cultural representation in books and educational materials by combining real-time collaboration with powerful AI tools.
 
-🏆 **Achievements:**  
-- 🥈 Semi-Finalist — AI Hack Day 2025  
-- 🥇 1st Prize — Digital Mavericks Ideathon 2025  
-- 📄 Research Paper:  
-  *"Cultural Hub: An AI-Integrated Digital Knowledge Publishing Framework for Author Empowerment and Knowledge Democratisation towards Viksit Bharat"*
-  | Status: Accepted ✓ 
 ---
 
 ## 🚨 Problem Statement  
@@ -44,16 +45,12 @@ Cultural Hub brings together three key stakeholders on one unified platform:
 ## 🚀 Key Features  
 
 ### 🤝 Collaboration  
-
 - **Collaborative Writing Space** — Real-time co-authoring of stories, books and lesson plans  
 - **Discussion Forum** — Idea exchange between authors, educators and historians  
 - **Feedback & Review System** — AI + peer-driven content refinement  
 - **In-App Chat** — Direct communication between contributors and publishers  
 
----
-
 ### 🤖 AI Integration  
-
 - **AI Content Generation** — GPT-powered drafting and ideation  
 - **Cultural Sensitivity Checker** — Detects bias and contextual inaccuracies  
 - **AI Detector** — Identifies AI-generated content (Quillbot-powered)  
@@ -62,10 +59,7 @@ Cultural Hub brings together three key stakeholders on one unified platform:
 - **Paraphraser & Grammar Checker** — Improves clarity and structure  
 - **Mood-Based Writing Environments** — Personalized creative workspace  
 
----
-
 ### 📖 Content & Publishing  
-
 - **Interactive Story Development** — Image integration for immersive storytelling  
 - **Publication Services** — Self-publishing, digital distribution, publisher connections  
 - **Content Repository** — Centralized cultural references and historical database  
@@ -136,9 +130,21 @@ Cultural Hub brings together three key stakeholders on one unified platform:
 
 **Cultural Hub: An AI-Integrated Digital Knowledge Publishing Framework for Author Empowerment and Knowledge Democratisation towards Viksit Bharat**  
 
-Presented at: *Reimagining Higher Education in 21st Century: An Inclusive Way Towards Viksit Bharat via NEP 2020 and IKS*  
-Status: Accepted ✓  
+- 📖 Published in: Vidhyayana e-Journal
+- 🎤 Presented at: 5th International Virtual Multidisciplinary Conference — *Reimagining Higher Education in 21st Century: An Inclusive Way Towards Viksit Bharat via NEP 2020 and IKS*
+- 🏢 Organised by: Vedant Knowledge Systems Pvt. Ltd | 27–28 February 2026
+- ✅ Status: Accepted  
 
+---
+
+## 👥 Team
+ 
+| Name | Contributions |
+|------|--------------|
+| Mandava Jyothi Krishna | UI/UX Design & Prototyping · Ideation & Planning · AI Integration Planning · Research & Documentation |
+| Karry Tanusha | Ideation & Planning · AI Integration Planning · Research & Documentation · Pitch Presentation |
+| Tanuku Leela Vani Lahari | UI/UX Design & Prototyping · Ideation & Planning · AI Integration Planning · Research & Documentation |
+ 
 ---
 
 ### 🌟 Vision  
