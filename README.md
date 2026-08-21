@@ -8,7 +8,7 @@
  
 - 🥇 **1st Prize** — Digital Mavericks Ideathon 2025 @ Stanley College
 - 🏆 **Semi-Finalist** — AI Hack Day 2025 @ IIIT Hyderabad & Swecha Telangana
-- 📄 **Research Paper Accepted** — Vidhyayana e-Journal
+- 📄 **Research Paper Published** — Vidhyayana e-Journal
  
 ---
 
@@ -130,10 +130,9 @@ Cultural Hub brings together three key stakeholders on one unified platform:
 
 **Cultural Hub: An AI-Integrated Digital Knowledge Publishing Framework for Author Empowerment and Knowledge Democratisation towards Viksit Bharat**  
 
-- 📖 Published in: Vidhyayana e-Journal
+- 📖 Published in: Vidhyayana e-Journal | June 2026
 - 🎤 Presented at: 5th International Virtual Multidisciplinary Conference — *Reimagining Higher Education in 21st Century: An Inclusive Way Towards Viksit Bharat via NEP 2020 and IKS*
 - 🏢 Organised by: Vedant Knowledge Systems Pvt. Ltd | 27–28 February 2026
-- ✅ Status: Accepted  
 
 ---
 
@@ -142,8 +141,8 @@ Cultural Hub brings together three key stakeholders on one unified platform:
 | Name | Contributions |
 |------|--------------|
 | Mandava Jyothi Krishna | UI/UX Design & Prototyping · Ideation & Planning · AI Integration Planning · Research & Documentation |
-| Karry Tanusha | Ideation & Planning · AI Integration Planning · Research & Documentation · Pitch Presentation |
 | Tanuku Leela Vani Lahari | UI/UX Design & Prototyping · Ideation & Planning · AI Integration Planning · Research & Documentation |
+| Karry Tanusha | Pitch Presentation |
  
 ---
 
